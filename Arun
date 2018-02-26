@@ -1,5 +1,7 @@
 #To check whether the given number is either positive or negative or zero.
+print("INPUT:")
 n= float(input("Enter a number: "))         #To get input from user.
+print("OUTPUT:")
 if n > 0:
    print(n,"Is Positive number")            #To print positive numbers.
 elif n== 0:
