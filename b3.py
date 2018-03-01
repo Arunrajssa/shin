@@ -10,5 +10,5 @@ for i in range(i,n):
     if(a[i]==i):
         print(a[i])
    
-print('no values like that...index=gn. number')
+print('-1')
 
